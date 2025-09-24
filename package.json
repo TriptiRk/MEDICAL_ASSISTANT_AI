@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@react-google-maps/api": "^2.20.7",
+    "@tailwindcss/postcss": "^4.1.12",
+    "@tailwindcss/vite": "^4.1.12",
+    "tailwindcss": "^4.1.12"
+  }
+}
